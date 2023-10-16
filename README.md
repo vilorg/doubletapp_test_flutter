@@ -1,16 +1,7 @@
 # doubletapp_habits
 
-A new Flutter project.
+## Мне было сложно писать README.MD, но особо не вижу в этом смысла. Напишу только, что использовал  clean architecture (вообще эта структура предполагалась под блочный тип архитектуру (по фичам), но тут фича только одна :) ). И еще: это приложение я тестил порядка 5 минут, возможно, будут небольшие баги(.
 
-## Getting Started
+## P.S. как подготавливать приложение к релизу знаю (картинку на рабочий стол, splash screen etc, но решил с этим не заморачиваться
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### P.P.S. дизайн не смог подготовить нормальный (я не дизайнер 👨‍🎨), но ориентировался на этот: https://www.figma.com/community/file/1140538095096589968/habita-habit-tracker-ui-kit . Всем добра!
